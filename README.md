@@ -1,4 +1,4 @@
-# YouTube Video Summarizer
+# Youtext Chrome Extension
 
 This repository contains a simple script that adds a "Summarize Video" button to YouTube videos. When clicked, the button redirects the user to a YouText page that provides a succinct AI-interpreted summary of the video.
 Features
