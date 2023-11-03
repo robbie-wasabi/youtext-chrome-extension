@@ -7,11 +7,31 @@ Features
 - Opens a new tab with the corresponding YouText page.
 - The button is positioned inline with the "like", "dislike", and "share" buttons on YouTube.
 
-## Usage
+## Download on Chrome Web Store 
 
-1. Clone this repository.
-2. Navigate to the cloned repository.
-3. Run the script.
+_coming soon_
+
+## Development
+
+```bash
+# clone
+$ git clone https://github.com/rrossilli/youtext-chrome-extension.git
+
+# cd
+cd youtext-chrome-extension
+
+# install packages
+$ pnpm i
+
+# build
+$ pnpm build
+```
+
+In Chromium browser:
+
+```md
+extensions > *enable developer mode* > load unpacked > *select youtext "dist" folder
+```
 
 ## Code
 

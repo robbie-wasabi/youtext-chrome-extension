@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "youtext",
-  "description": "Summarize youtube videos",
+  "name": "YouText",
+  "description": "Swift Video Summarization",
   "version": "1.0",
   "action": {
     "default_popup": "popup.html"
