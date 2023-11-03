@@ -30,7 +30,7 @@ $ pnpm build
 In Chromium browser:
 
 ```md
-extensions > *enable developer mode* > load unpacked > *select youtext "dist" folder
+extensions > *enable developer mode* > load unpacked > *select youtext "dist" folder*
 ```
 
 ## Code
