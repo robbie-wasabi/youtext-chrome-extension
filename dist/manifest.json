@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "youtext",
+  "description": "Summarize youtube videos",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*"
+      ],
+      "js": [
+        "contentScript.js"
+      ]
+    }
+  ]
+}
